@@ -10,7 +10,7 @@
 
 本项目希望把课程内容整理成更适合中文阅读的学习资料，方便大家在学习、办公、写作、编程和资料整理等场景中参考使用。
 
-如果你正在学习 AI 提示词，或者想系统了解如何更有效地使用 ChatGPT、Claude、Deepseek 等AI工具，可以从这个项目开始。
+如果你正在学习 AI 提示词，或者想系统了解如何更有效地使用  ChatGPT、Gemini、Claude 等AI工具，可以从这个项目开始。
 
 
 
@@ -42,7 +42,7 @@
 **agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习 Claude Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
 
 
-**agent-skills-with-anthropic：** 围绕智能体工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
+**agentic-ai：** 围绕智能体工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
 
 
 
