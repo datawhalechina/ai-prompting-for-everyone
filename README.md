@@ -3,7 +3,6 @@
   <h1>agent-skills-with-anthropic</h1>
 </div>
 
-# ai-prompting-for-everyone
 
 ## 项目简介
 
