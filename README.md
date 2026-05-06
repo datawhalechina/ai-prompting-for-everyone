@@ -65,7 +65,13 @@
 - 特别感谢 [@Datawhale](https://github.com/datawhalechina) 对本项目的支持
 - 如果有任何想法可以联系我们，也欢迎大家多多提出 issue
 - 特别感谢以下为教程做出贡献的同学！
+<div align=center style="margin-top: 30px;">
+<a href="https://github.com/datawhalechina/ai-prompting-for-everyone/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=datawhalechina/ai-prompting-for-everyone" />
+</a>
+</div>
 
+</div>
 
 
 ## 关注我们
@@ -80,6 +86,13 @@
 
 ## Star History
 
+<a href="https://www.star-history.com/?repos=datawhalechina%2Fai-prompting-for-everyone&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=datawhalechina/ai-prompting-for-everyone&type=date&legend=top-left" />
+ </picture>
+</a>
 
 
 
