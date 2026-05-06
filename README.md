@@ -41,6 +41,7 @@
 
 ⭐ 欢迎 Star、Fork 与 PR，一起打造最好的 AI 学习资源！
 
+
 ## 项目友链
 
 **agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
@@ -52,11 +53,11 @@
 
 ## 项目规划
 
-| 章节 | 负责人 | 状态 |
-| --- | --- | --- |
-| Module 1| 李智江 | ✅ |
-| Module 2| 柴承清 | ✅ |
-| Module 3| 陈辅元 | ✅ |
+| 章节 | 负责人 | 状态 | 审核人 |
+| --- | --- | --- | --- |
+| Module 1| 李智江 | ✅ | 陈辅元 |
+| Module 2| 柴承清 | ✅ | 李智江 |
+| Module 3| 陈辅元 | ✅ | 柴承清 |
 
 
 ## 致谢
@@ -64,11 +65,7 @@
 - 特别感谢 [@Datawhale](https://github.com/datawhalechina) 对本项目的支持
 - 如果有任何想法可以联系我们，也欢迎大家多多提出 issue
 - 特别感谢以下为教程做出贡献的同学！
-<div align=center style="margin-top: 30px;">
-  <a href="https://github.com/datawhalechina/agentic-ai/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=datawhalechina/agentic-ai" />
-  </a>
-</div>
+
 
 
 ## 关注我们
@@ -82,6 +79,8 @@
 
 
 ## Star History
+
+
 
 
 ## License
