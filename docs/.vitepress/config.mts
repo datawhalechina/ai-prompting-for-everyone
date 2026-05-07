@@ -46,6 +46,7 @@ export default defineConfig({
         },
       },
     },
+    // 侧栏 link 与 docs/module_* 下 Markdown 文件名（不含 .md）一一对应
     sidebar: [
       {
         text: 'Module 1',
@@ -53,25 +54,46 @@ export default defineConfig({
         items: [
           {
             text: '1.1 AI 新手与 AI 高级用户',
-            link: '/module_1/1.1AI新手与AI高级用户',
+            link: '/module_1/1.1AI新手与AI高级用户 [ The Al novice and the Al power user ]',
           },
-          { text: '1.2 预训练知识', link: '/module_1/1.2预训练知识' },
-          { text: '1.3 网络搜索', link: '/module_1/1.3网络搜索' },
-          { text: '1.4 网络搜索的来源', link: '/module_1/1.4网络搜索的来源' },
-          { text: '1.5 使用深度研究', link: '/module_1/1.5使用深度研究' },
+          {
+            text: '1.2 预训练知识',
+            link: '/module_1/1.2预训练知识 [ Pretraind knowledge ]',
+          },
+          { text: '1.3 网络搜索', link: '/module_1/1.3网络搜索 [ Web search ]' },
+          {
+            text: '1.4 网络搜索的来源',
+            link: '/module_1/1.4网络搜索的来源 [ Web search sources ]',
+          },
+          {
+            text: '1.5 使用深度研究',
+            link: '/module_1/1.5使用深度研究 [ Using deep research ]',
+          },
         ],
       },
       {
         text: 'Module 2',
         collapsed: false,
         items: [
-          { text: '2.1 用 AI 头脑风暴', link: '/module_2/2.1用AI头脑风暴' },
-          { text: '2.2 上下文', link: '/module_2/2.2上下文' },
-          { text: '2.3 AI 桌面应用', link: '/module_2/2.3AI桌面应用' },
-          { text: '2.4 用 AI 推理', link: '/module_2/2.4用AI推理' },
-          { text: '2.5 迎合性', link: '/module_2/2.5迎合性' },
-          { text: '2.6 用 AI 写作', link: '/module_2/2.6用AI写作' },
-          { text: '2.7 AI 评审', link: '/module_2/2.7AI评审' },
+          {
+            text: '2.1 用 AI 头脑风暴',
+            link: '/module_2/2.1用AI头脑风暴[Brainstorming with AI]',
+          },
+          { text: '2.2 上下文', link: '/module_2/2.2上下文[Context]' },
+          {
+            text: '2.3 AI 桌面应用',
+            link: '/module_2/2.3AI桌面应用[AI desktop apps]',
+          },
+          {
+            text: '2.4 用 AI 推理',
+            link: '/module_2/2.4用AI推理[Reasoning with AI]',
+          },
+          { text: '2.5 迎合性', link: '/module_2/2.5迎合性[Sycophancy]' },
+          {
+            text: '2.6 用 AI 写作',
+            link: '/module_2/2.6用AI写作[Writing with AI]',
+          },
+          { text: '2.7 AI 评审', link: '/module_2/2.7AI评审[AI critique]' },
         ],
       },
       {
@@ -80,13 +102,22 @@ export default defineConfig({
         items: [
           {
             text: '3.1 处理多媒体数据',
-            link: '/module_3/3.1处理多媒体数据',
+            link: '/module_3/3.1处理多媒体数据[Working with multimedia data]',
           },
-          { text: '3.2 图像理解', link: '/module_3/3.2图像理解' },
-          { text: '3.3 图像生成', link: '/module_3/3.3图像生成' },
-          { text: '3.4 构建应用', link: '/module_3/3.4构建应用' },
-          { text: '3.5 数据分析', link: '/module_3/3.5数据分析' },
-          { text: '3.7 总结', link: '/module_3/3.7总结' },
+          {
+            text: '3.2 图像理解',
+            link: '/module_3/3.2图像理解[Image understanding]',
+          },
+          {
+            text: '3.3 图像生成',
+            link: '/module_3/3.3图像生成[Image generation]',
+          },
+          { text: '3.4 构建应用', link: '/module_3/3.4构建应用[Building apps]' },
+          {
+            text: '3.5 数据分析',
+            link: '/module_3/3.5数据分析[Data analysis]',
+          },
+          { text: '3.7 总结', link: '/module_3/3.7总结[Conclusion]' },
         ],
       },
     ],

@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="./images/logo.png" >
+  <img src="./docs/images/logo.png" >
   <h1>agent-skills-with-anthropic</h1>
 </div>
 
@@ -7,6 +7,7 @@
 ## 项目简介
 
 **在线视频课程地址：** [DeepLearning.AI - ai-prompting-for-everyone](https://www.deeplearning.ai/courses/ai-prompting-for-everyone/)
+
 
 本项目整理自吴恩达老师在 DeepLearning.AI 平台推出的 **AI Prompting for Everyone** 课程，主要面向中文学习者，提供课程内容翻译、知识点梳理和示例说明。
 
@@ -17,6 +18,10 @@
 如果你正在学习 AI 提示词，或者想系统了解如何更有效地使用  ChatGPT、Gemini、Claude 等AI工具，可以从这个项目开始。
 
 
+
+## 在线阅读
+
+https://datawhalechina.github.io/ai-prompting-for-everyone/
 
 
 ## 项目受众

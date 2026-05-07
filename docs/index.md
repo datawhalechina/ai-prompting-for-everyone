@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /module_1/1.1AI新手与AI高级用户
+      link: '/module_1/1.1AI新手与AI高级用户 [ The Al novice and the Al power user ]'
     - theme: alt
       text: 课程官网
       link: https://www.deeplearning.ai/courses/ai-prompting-for-everyone/
