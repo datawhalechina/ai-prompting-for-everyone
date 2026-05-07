@@ -7,10 +7,12 @@ import vImageViewer from 'vitepress-plugin-image-viewer/lib/vImageViewer.vue';
 import { useRoute } from 'vitepress';
 import { h } from 'vue';
 
-// 公告栏组件
-const Announcement = () => h('div', {
-    class: 'announcement-banner',
-}, '⚠️ Alpha内测版本警告：此为早期内部构建版本，尚不完整且可能存在错误，欢迎大家提Issue反馈问题或建议。')
+const Announcement = () =>
+  h(
+    'div',
+    { class: 'announcement-banner' },
+    '欢迎阅读本教程。如发现疏漏或有改进建议，欢迎在 GitHub 提 Issue 或 PR。',
+  )
 
 export default {
     extends: DefaultTheme,
