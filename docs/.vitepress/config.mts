@@ -79,7 +79,7 @@ export default defineConfig({
             text: '2.1 用 AI 头脑风暴',
             link: '/module_2/2.1用AI头脑风暴[Brainstorming with AI]',
           },
-          { text: '2.2 上下文', link: '/module_2/2.2上下文[Context]' },
+          { text: '2.2 上下文', link: '/module_2/2.2上下文 [ Context ]' },
           {
             text: '2.3 AI 桌面应用',
             link: '/module_2/2.3AI桌面应用[AI desktop apps]',
@@ -88,7 +88,7 @@ export default defineConfig({
             text: '2.4 用 AI 推理',
             link: '/module_2/2.4用AI推理[Reasoning with AI]',
           },
-          { text: '2.5 迎合性', link: '/module_2/2.5迎合性[Sycophancy]' },
+          { text: '2.5 迎合性', link: '/module_2/2.5迎合性 [ Sycophancy ]' },
           {
             text: '2.6 用 AI 写作',
             link: '/module_2/2.6用AI写作[Writing with AI]',
@@ -117,7 +117,7 @@ export default defineConfig({
             text: '3.5 数据分析',
             link: '/module_3/3.5数据分析[Data analysis]',
           },
-          { text: '3.7 总结', link: '/module_3/3.7总结[Conclusion]' },
+          { text: '3.7 总结', link: '/module_3/3.7总结 [ Conclusion ]' },
         ],
       },
     ],
