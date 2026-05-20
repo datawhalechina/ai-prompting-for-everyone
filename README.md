@@ -1,6 +1,6 @@
 <div align=center>
   <img src="./docs/images/logo.png" >
-  <h1>agent-skills-with-anthropic</h1>
+  <h1>ai-prompting-for-everyone</h1>
 </div>
 
 
