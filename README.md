@@ -24,6 +24,17 @@
 https://datawhalechina.github.io/ai-prompting-for-everyone/
 
 
+## 项目友链
+
+**agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
+
+
+**agentic-ai：** 从智能体的工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
+
+
+
+
+
 ## 项目受众
 
 
@@ -47,12 +58,6 @@ https://datawhalechina.github.io/ai-prompting-for-everyone/
 ⭐ 欢迎 Star、Fork 与 PR，一起打造最好的 AI 学习资源！
 
 
-## 项目友链
-
-**agent-skills-with-anthropic：** 围绕 Agent Skills 的概念、使用方式、代码实践与课程内容进行翻译和梳理，帮助学习者更系统地学习如何创建一个适合自己的Agent Skills。 （[agent-skills-with-anthropic](https://github.com/datawhalechina/agent-skills-with-anthropic)）
-
-
-**agentic-ai：** 从智能体的工作流、反思模式、工具调用和自主 Agent 构建等内容进行翻译、梳理与代码解读，帮助学习者系统掌握 Agentic AI 的核心方法与实践应用。 （[agentic-ai](https://github.com/datawhalechina/agentic-ai)）
 
 
 
